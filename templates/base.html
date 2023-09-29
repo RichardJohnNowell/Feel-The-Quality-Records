@@ -28,12 +28,28 @@
         <script src="https://kit.fontawesome.com/f4436ffe97.js" crossorigin="anonymous"></script>
         {% end block %}
         <!-- end of js block -->
-        <title>FTQR | Recording What Matters</title>
+        <title>FTQR | Recording What Matters {% block extra_title %}{% endblock %}</title>
     </head>
     <!-- end of head -->
     <!-- start of body -->
     <body>
-        <h1>Hello, world!</h1>
+        <!-- header -->
+        <header class="container-fluid fixed-top">
+        </header>
+        {% if messages %}
+            <div class="message-container">
+            </div>
+        {% endif %}
+
+        {% block page_header %}
+        {% endblock %}
+
+        {% block content %}
+        {% endblock %}
+
+        {% block postloadjs %}
+        {% endblock %}
+        
     </body>
     <!-- end of body -->
 </html>
