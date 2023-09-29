@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-attachment: fixed;
+    background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/ftqr-website-background_orig.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #010203;
+    font-size: 1.0rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
