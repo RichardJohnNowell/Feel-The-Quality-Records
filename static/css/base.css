@@ -9,7 +9,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     color: #010203;
+    font-family: Montserrat;
     font-size: 1.0rem;
     font-weight: 400;
+    height: calc(100vh - 164px);
     line-height: 1.5;
 }
