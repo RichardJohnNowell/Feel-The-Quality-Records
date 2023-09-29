@@ -1,3 +1,5 @@
+/* ------------------------------------ start of ftqr styling */
+
 html {
     height: 100%;
 }
@@ -22,7 +24,7 @@ p {
     width: 88%;
 }
 
-
+/* --------------------------------------- navbar styling */
 
 .main-logo-link {
     width: fit-content;
@@ -39,11 +41,12 @@ p {
     color: white;
 }
 
-.shop-now-button:hover,
+
 .shop-now-button:active,
 .shop-now-button:focus,
-.btn-black:hover,
+.shop-now-button:hover,
 .btn-black:active,
+.btn-black:hover,
 .btn-black:focus {
     background: #222;
     color: white;
@@ -84,3 +87,5 @@ p {
           width: 58%;
         }
       }
+
+/* end */
