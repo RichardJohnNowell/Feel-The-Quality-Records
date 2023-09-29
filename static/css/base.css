@@ -15,3 +15,72 @@ body {
     height: calc(100vh - 164px);
     line-height: 1.5;
 }
+
+p {
+    margin: auto;
+    text-align: center;
+    width: 88%;
+}
+
+
+
+.main-logo-link {
+    width: fit-content;
+}
+
+.shop-now-button {
+    background: #010203;;
+    color: white;
+    min-width: 260px;
+}
+
+.btn-black {
+    background: #010203;;
+    color: white;
+}
+
+.shop-now-button:hover,
+.shop-now-button:active,
+.shop-now-button:focus,
+.btn-black:hover,
+.btn-black:active,
+.btn-black:focus {
+    background: #222;
+    color: white;
+}
+
+.text-black {
+    color: #010203;
+}
+
+.border-black {
+    border: 1px solid #010203;
+}
+
+/* -------------------------------- Media Queries */
+
+  @media (min-width: 1200px) {
+      .container {
+        max-width: 80%;
+      }
+    }
+
+  @media (min-width: 992px) {
+    .fixed-top-desktop-only {
+        position: fixed;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+    }
+
+    .header-container {
+        padding-top: 164px;
+    }
+    }
+
+    @media only screen and (min-width: 601px) {
+        p {
+          width: 58%;
+        }
+      }
