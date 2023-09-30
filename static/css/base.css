@@ -32,24 +32,24 @@ p {
 
 .shop-now-button {
     background: #010203;;
-    color: white;
+    color: #fefdfa;
     min-width: 260px;
 }
 
 .btn-black {
     background: #010203;;
-    color: white;
+    color: #fefdfa;
 }
 
-
+.btn-black:active,
+.btn-black:focus,
+.btn-black:hover,
 .shop-now-button:active,
 .shop-now-button:focus,
-.shop-now-button:hover,
-.btn-black:active,
-.btn-black:hover,
-.btn-black:focus {
-    background: #222;
-    color: white;
+.shop-now-button:hover
+  {
+    background: #2b2b2b;
+    color: #fefdfa;
 }
 
 .text-black {
