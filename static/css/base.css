@@ -60,6 +60,18 @@ p {
     border: 1px solid #010203;
 }
 
+/* -------------------------------- image sizing */
+
+#dub-direct-need-to-know-white-t-shirt {
+    width: "350px";
+    height: "350px";
+}
+
+#dub-direct-tenement-rydims-black-t-shirt {
+    width: "350px"; 
+    height: "345px";
+}
+
 /* -------------------------------- Media Queries */
 
   @media (min-width: 1200px) {
