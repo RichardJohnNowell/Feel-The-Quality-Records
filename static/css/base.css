@@ -117,6 +117,13 @@ p {
     height: "350px";
 }
 
+/* -------------------------------- cd cover sizing */
+
+#dub-direct-need-to-know {
+    width: "350px"; 
+    height: "350px";
+}
+
 
 
 /* -------------------------------- Media Queries */
