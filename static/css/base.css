@@ -60,7 +60,7 @@ p {
     border: 1px solid #010203;
 }
 
-/* -------------------------------- image sizing */
+/* -------------------------------- t-shirt image sizing */
 
 #dub-direct-need-to-know-white-t-shirt {
     width: "350px";
@@ -81,6 +81,43 @@ p {
     width: "350px"; 
     height: "345px";
 }
+
+#lastwind-monster-trucks-white-t-shirt {
+    width: "350px";
+    height: "350px";
+}
+
+#stokes-croft-beatz-2-u-what-income-black-t-shirt {
+    width: "350px"; 
+    height: "350px"; 
+}
+
+#stokes-croft-beatz-2-u-what-income-white-t-shirt {
+    width: "350px"; 
+    height: "350px";
+}
+
+#this-that-the-other-fallen-soldiers-black-t-shirt {
+    width: "350px"; 
+    height: "345px";
+}
+
+#this-that-the-other-fallen-soldiers-white-t-shirt {
+    width: "350px"; 
+    height: "350px";
+}
+
+#this-that-the-other-urban-angst-black-t-shirt {
+    width: "350px";
+    height: "345px";
+}
+
+#this-that-the-other-urban-angst-white-t-shirt {
+    width: "350px"; 
+    height: "350px";
+}
+
+
 
 /* -------------------------------- Media Queries */
 
