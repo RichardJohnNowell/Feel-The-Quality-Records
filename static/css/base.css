@@ -60,6 +60,10 @@ p {
     border: 1px solid #010203;
 }
 
+.bg-black {
+    background: #010203;
+}
+
 /* -------------------------------- t-shirt image sizing */
 
 #dub-direct-need-to-know-white-t-shirt {
