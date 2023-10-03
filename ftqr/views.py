@@ -8,4 +8,4 @@ def index(request):
 
 def all_products(request):
     """ A view to return the products page """
-    return render(request, 'products/products.html', context)
+    return render(request, 'products/products.html')
