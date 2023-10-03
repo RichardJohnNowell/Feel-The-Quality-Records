@@ -25,7 +25,10 @@ p {
 
 /* --------------------------------------- navbar styling */
 
-
+.navbar {
+    background: #234F4E;
+    min-height: 60px;
+}
 
 .shop-now-button {
     background: #010203;;
