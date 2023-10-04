@@ -36,86 +36,75 @@
     <!-- start of body -->
     <body>
         <!-- header -->
-        <header class="container-fluid fixed-top">
-            <div id="topnav" class="row bg-white pt-lg-2 d-none d-lg-flex">
-            </div>
-                <div class="row bg-white">
-                    <nav class="navbar navbar-expand-lg navbar-light w-100">
-                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-nav" aria-controls="main-nav"
-                         aria-expanded="false" aria-label="toggle navigation">
-                            <span class="navbar-toggler-icon"></span>
-                        </button>
-                        {% include 'includes/mobile-top-header.html' %}
-                        {% include 'includes/main-nav.html' %}
-                    </nav>
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-light">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="#">
+                        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/ftqr-sized-short-logo_orig.jpg" id="ftqr-sized-short-logo" title="ftqr-sized-short-logo" alt="ftqr-sized-short-logo">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    {% include 'includes/mobile-top-header.html' %}
+                    {% include 'includes/main-nav.html' %}
                 </div>
-
-                <!-- start bootstrap dropdown menu -->
-                <div class="col-12 col-lg-4 my-auto py-1 py-lg-0">
-                    <ul class="list-inline list-unstyled text-center text-lg-right my-0">
-                        <li class="list-inline-item dropdown">
-                            <a class="text-black nav-link" href="#" id="user-options" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <div class="text-center">
-                                    <div>
-                                        <i class="fas fa-user fa-lg"></i>
-                                    </div>
-                                    <!-- user account -->
-                                    <p class="my-0">User Account</p>
+            </nav>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent"></div>
+                <ul class="navbar-nav mr-auto">
+                    <li class="list-inline-item dropdown">
+                        <a class="text-black nav-link" href="#" id="user-options" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <div class="text-center">
+                                <div>
+                                    <i class="fas fa-user fa-lg"></i>
                                 </div>
-                            </a>
-                            <div class="dropdown-menu border-0" aria-labelledby="user-options">
-                                {% if request.user.is_authenticated %}
-                                    {% if request.user.is_superuser %}
-                                        <!-- superuser product management -->
-                                        <a href="" class="dropdown-item">Product Management
-                                        </a>
-                                    {% endif %}
+                                <p class="my-0">User Account</p>
+                            </div>
+                        </a>
+                        <div class="dropdown-menu border-0" aria-labelledby="user-options">
+                            {% if request.user.is_authenticated %}
+                                {% if request.user.is_superuser %}
+                                    <!-- superuser product management -->
+                                    <a href="" class="dropdown-item">Product Management
+                                    </a>
+                                {% endif %}
                                     <!-- profile -->
                                     <a href="" class="dropdown-item">My Profile
                                     </a>
                                     <!-- logout -->
-                                    <a href="{% url 'account_logout' %}" class="dropdown-item">Logout
-                                    </a>
+                                        <a href="{% url 'account_logout' %}" class="dropdown-item">Logout
+                                        </a>
                                 {% else %}
                                     <!-- register -->
                                     <a href="{% url 'account_signup' %}" class="dropdown-item">Register
                                     </a>
-                                    <!-- login -->
-                                    <a href="{% url 'account_login' %}" class="dropdown-item">Login
-                                    </a>
-                                {% endif %}
-                            </div>
-                        </li>
-                        <!-- end of bootstrap dropdown menu -->
-                        <!-- bootstrap shopping bag-->
-                        <li class="list-inline-item">
-                            <a class="{% if grand_total %}text-info font-weight-bold{% else %}text-black{% endif %} nav-link" href="">
-                                <div class="text-center">
-                                    <div>
-                                        <i class="fas fa-shopping-bag fa-lg"></i>
-                                    </div>
-                                    <p class="my-0">
-                                        {% if grand_total %}
-                                            <!-- two decimal places -->
-                                            £{{ grand_total|floatformat:2 }}
-                                        {% else %}
-                                            £0.00
-                                        {% endif %}
-                                    </p>
+                                        <!-- login -->
+                                        <a href="{% url 'account_login' %}" class="dropdown-item">Login
+                                        </a>
+                            {% endif %}
+                        </div>
+                    </li>
+                    <!-- end of dropdown menu -->
+                    <!-- shopping bag-->
+                    <li class="list-inline-item">
+                        <a class="{% if grand_total %}text-info font-weight-bold{% else %}text-black{% endif %} nav-link" href="">
+                            <div class="text-center">
+                                <div>
+                                    <i class="fas fa-shopping-bag fa-lg"></i>
                                 </div>
-                            </a>
-                        </li>
-                        <!-- end of bootstrap shopping bag -->
-                    </ul>
-                </div>
-            </div>
-                <div id="delivery-banner" class="row text-center">
-                    <div class="col bg-black text-white">
-                        <h4 class="logo-font my-1">Free delivery on orders over £{{ free_delivery_threshold }}!</h4>                
-                    </div>            
-                </div>
+                                <p class="my-0">
+                                    {% if grand_total %}
+                                        <!-- two decimal places -->
+                                        £{{ grand_total|floatformat:2 }}
+                                    {% else %}
+                                        £0.00
+                                    {% endif %}
+                                </p>
+                            </div>
+                        </a>
+                    </li>
+                <!-- end of shopping bag -->
+            </ul>
         </header>
-        <!-- end of header -->
         {% if messages %}
             <div class="message-container">
             </div>
@@ -129,7 +118,36 @@
 
         {% block postloadjs %}
         {% endblock %}
-
+        <footer>
+            <div class="social-networks">
+                <ul>
+                    <li>
+                        <a href="https://www.facebook.com" title="Facebook" target="_blank" rel="noopener">
+                            <i class="fab fa-facebook" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.twitter.com" title="Twitter" target="_blank" rel="noopener">
+                            <i class="fab fa-twitter-square" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com" title="Instagram" target="_blank" rel="noopener">
+                            <i class="fab fa-instagram" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <!-- website credit -->
+            <div id="websitecredit" aria-hidden="true">
+                <p>This website was designed and built by Richard Nowell 2023</p>
+            </div>
+            <br>
+        </footer>
+        <!-- end of footer -->
+        <div class="flex-container">
+            <a class="btn btn-outline-dark" href="sites web"  role="button" target="_blank" rel="noopener">Back to menu</a>
+        </div>
     </body>
     <!-- end of body -->
 </html>
