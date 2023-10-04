@@ -53,6 +53,10 @@ nav li {
     background-color: #234F4E; 
 }
 
+.nav-link {
+    color: #3effff;  
+}
+
 .shop-now-button {
     background: #010203;;
     color: #fefdfa;
@@ -75,9 +79,7 @@ nav li {
     color: #fefdfa;
 }
 
-.text-black {
-    color: #010203;
-}
+
 
 .border-black {
     border: 1px solid #010203;
