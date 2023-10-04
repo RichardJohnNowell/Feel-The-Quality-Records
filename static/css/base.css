@@ -49,7 +49,7 @@ nav li {
     text-align: center;
 }
   
-.navbar-nav > li > .dropdown-menu { 
+.navbar-nav { 
     background-color: #234F4E; 
 }
 
