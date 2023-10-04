@@ -194,9 +194,7 @@ nav li {
 
 /*--------------------------------------- footer*/
 
-footer {
-    height: 3.0rem;
-}
+
   
 .social-networks {
     text-align: center;
@@ -220,30 +218,15 @@ footer {
 
 /* -------------------------------- Media Queries */
 
-  @media (min-width: 1200px) {
-      .container {
-        max-width: 80%;
-      }
+@media only screen and (min-width: 601px) {
+    .container {
+      width: 56%;
     }
-
-  @media (min-width: 992px) {
-    .fixed-top-desktop-only {
-        position: fixed;
-        top: 0;
-        right: 0;
-        left: 0;
-        z-index: 1030;
+  }
+  
+  @media only screen and (min-width: 601px) {
+    p {
+      width: 58%;
     }
-
-    .header-container {
-        padding-top: 164px;
-    }
-    }
-
-    @media only screen and (min-width: 601px) {
-        p {
-          width: 58%;
-        }
-      }
-
+  }
 /* end */
