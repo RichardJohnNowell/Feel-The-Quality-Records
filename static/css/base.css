@@ -178,6 +178,32 @@ nav li {
     height: "358px";
 }
 
+/*--------------------------------------- footer */
+
+footer {
+    height: 3.0rem;
+}
+  
+.social-networks {
+    text-align: center;
+}
+  
+.social-networks li {
+    display: inline;
+}
+  
+.social-networks i {
+    font-size: 1.0rem;
+    margin: 1.25rem;
+}
+  
+#websitecredit {
+    color: #2b2b2b;
+    font-size: 1.0rem;
+    padding-bottom: 1.0rem;
+    text-align: center;
+}
+
 /* -------------------------------- Media Queries */
 
   @media (min-width: 1200px) {
