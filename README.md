@@ -40,68 +40,109 @@ to help the musicians and buy a product.
 
 ## T-shirt designs
 <br>
+<p align="center">
+<strong>
+Pictures are representative only. Quality of shipped product is excellent.
+</strong>
+</p>
 <div align="center">
-    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/stokes-croft-beatz-2-u-what-income-white-t-shirt_orig.jpg?raw=true">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/stokes-croft-beatz-2-u-what-income-white-t-shirt_orig.jpg?raw=true"
-         width="350" height="350" title="stokes-croft-beatz-2-u-what-income-white-t-shirt" id="stokes-croft-beatz-2-u-what-income-white-t-shirt"
-         alt="stokes-croft-beatz-2-u-what-income-white-t-shirt">
+    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/stokes-croft-beatz-2-u-what-income-cover-black-t-shirt_orig.jpg?raw=true">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/stokes-croft-beatz-2-u-what-income-cover-black-t-shirt_orig.jpg?raw=true"
+         width="350" height="444" title="stokes-croft-beatz-2-u-what-income-black" id="stokes-croft-beatz-2-u-what-income-black" alt="stokes-croft-beatz-2-u-what-income-black">
     </a>
+    <p>
+    Stokes Croft Beatz 2 U - What Income? Black sizes S, M, L or XL.
+    </p>
 </div>
 <br>
 <div align="center">
-    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/stokes-croft-beatz-2-u-what-income-black-t-shirt_orig.jpg?raw=true">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/stokes-croft-beatz-2-u-what-income-black-t-shirt_orig.jpg?raw=true"
-         width="350" height="350" title="stokes-croft-beatz-2-u-what-income-black-t-shirt" id="stokes-croft-beatz-2-u-what-income-black-t-shirt" 
-         alt="stokes-croft-beatz-2-u-what-income-black-t-shirt">
+    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/stokes-croft-beatz-2-u-what-income-cover-white-t-shirt_orig.jpg?raw=true">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/stokes-croft-beatz-2-u-what-income-cover-white-t-shirt_orig.jpg?raw=true"
+         width="350" height="444" title="stokes-croft-beatz-2-u-what-income-white" id="stokes-croft-beatz-2-u-what-income-white" alt="stokes-croft-beatz-2-u-what-income-white">
     </a>
+    <p>
+    Stokes Croft Beatz 2 U - What Income? White sizes S, M, L or XL.
+    </p>
 </div>
 <br>
 <div align="center">
-    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-fallen-soldiers-white-t-shirt_orig.jpg?raw=true">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-fallen-soldiers-white-t-shirt_orig.jpg?raw=true"
-         width="350" height="350" title="this-that-the-other-fallen-soldiers-white-t-shirt" id="this-that-the-other-fallen-soldiers-white-t-shirt"
-         alt="this-that-the-other-fallen-soldiers-white-t-shirt">
+    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-fallen-soldiers-cover-black-t-shirt_orig.jpg?raw=true">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-fallen-soldiers-cover-black-t-shirt_orig.jpg?raw=true"
+         width="350" height="444" title="this-that-the-other-fallen-soldiers-black" id="this-that-the-other-fallen-soldiers-black" alt="this-that-the-other-fallen-soldiers-black">
     </a>
+    <p>
+    This, That, The Other - Fallen Soldiers. Black sizes S, M, L, XL.
+    </p>
 </div>
 <br>
 <div align="center">
-    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-fallen-soldiers-black-t-shirt_orig.jpg?raw=true">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-fallen-soldiers-black-t-shirt_orig.jpg?raw=true"
-         width="350" height="345" title="this-that-the-other-fallen-soldiers-black-t-shirt" id="this-that-the-other-fallen-soldiers-black-t-shirt"
-         alt="this-that-the-other-fallen-soldiers-black-t-shirt">
+    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-fallen-soldiers-cover-white-t-shirt_orig.jpg?raw=true">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-fallen-soldiers-cover-white-t-shirt_orig.jpg?raw=true"
+         width="350" height="444" title="this-that-the-other-fallen-soldiers-white" id="this-that-the-other-fallen-soldiers-white" alt="this-that-the-other-fallen-soldiers-white">
     </a>
+    <p>
+    This, That, The Other - Fallen Soldiers. White sizes S, M, L, XL.
+    </p>
 </div>
 <br>
 <div align="center">
-    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-urban-angst-white-t-shirt_orig.jpg?raw=true">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-urban-angst-white-t-shirt_orig.jpg?raw=true"
-         width="350" height="350" title="this-that-the-other-urban-angst-white-t-shirt" id="this-that-the-other-urban-angst-white-t-shirt"
-         alt="this-that-the-other-urban-angst-white-t-shirt">
+    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-urban-angst-cover-black-t-shirt_orig.jpg?raw=true">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-urban-angst-cover-black-t-shirt_orig.jpg?raw=true"
+         width="350" height="444" title="this-that-the-other-urban-angst-black"  id="this-that-the-other-urban-angst-black" alt="this-that-the-other-urban-angst-black">  
     </a>
+    <p>
+    This, That, The Other - Urban Angst. Black sizes S, M, L, XL
+    </p>
 </div>
 <br>
 <div align="center">
-    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-urban-angst-black-t-shirt_orig.jpg?raw=true">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-urban-angst-black-t-shirt_orig.jpg?raw=true"
-         width="350" height="345" title="this-that-the-other-urban-angst-black-t-shirt" id="this-that-the-other-urban-angst-black-t-shirt"
-         alt="this-that-the-other-urban-angst-black-t-shirt">
+    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-urban-angst-cover-white-t-shirt_orig.jpg?raw=true">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-urban-angst-cover-white-t-shirt_orig.jpg?raw=true"
+         width="350" height="444" title="this-that-the-other-urban-angst-white" id="this-that-the-other-urban-angst-white" alt="this-that-the-other-urban-angst-white">
     </a>
+    <p>
+    This, That, The Other - Urban Angst. White sizes S, M, L, XL.
+    </p>
 </div>
 <br>
 <div align="center">
-    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/lastwind-monster-trucks-white-t-shirt_orig.jpg?raw=true">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/lastwind-monster-trucks-white-t-shirt_orig.jpg?raw=true"
-         width="350" height="350" title="lastwind-monster-trucks-white-t-shirt" id="lastwind-monster-trucks-white-t-shirt" 
-         alt="lastwind-monster-trucks-white-t-shirt">
+    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/lastwind-monster-trucks-cover-black-t-shirt_orig.jpg?raw=true">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/lastwind-monster-trucks-cover-black-t-shirt_orig.jpg?raw=true"
+         width="350" height="444" title="lastwind-monster-trucks-black" id="lastwind-monster-trucks-black" alt="lastwind-monster-trucks-black">
     </a>
+    <p>
+    Lastwind - Monster Trucks. Black S, M, L XL.
+    </p>
 </div>
 <br>
 <div align="center">
-    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/lastwind-monster-trucks-t-shirt_orig.jpg?raw=true">
-        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/lastwind-monster-trucks-t-shirt_orig.jpg?raw=true"
-         width="350" height="345" title="lastwind-monster-trucks-black-t-shirt" id="lastwind-monster-trucks-black-t-shirt" 
-         alt="lastwind-monster-trucks-black-t-shirt">
+    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/lastwind-monster-trucks-cover-white-t-shirt_orig.jpg?raw=true">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/lastwind-monster-trucks-cover-white-t-shirt_orig.jpg?raw=true"
+         width="350" height="444" title="lastwind-monster-trucks-white" id="lastwind-monster-trucks-white" alt="lastwind-monster-trucks-white">
     </a>
+    <p>
+    Lastwind - Monster Trucks. White S, M, L XL.
+    </p>
+</div>
+<br>
+<div align="center">
+    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/dub-direct-tenement-rydims-cover-black-t-shirt_orig.jpg?raw=true">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/dub-direct-tenement-rydims-cover-black-t-shirt_orig.jpg?raw=true"
+         width="350" height="444" title="dub-direct-tenement-rydims-cover-black" id="dub-direct-tenement-rydims-cover-black" alt="dub-direct-tenement-rydims-cover-black">
+    </a>
+    <p>
+    Dub Direct - Tenement Rydims. Black sizes M or L.
+    </p>
+</div>
+<br>
+<div align="center">
+    <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/dub-direct-tenement-rydims-cover-white-t-shirt_orig.jpg?raw=true">
+        <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/dub-direct-tenement-rydims-cover-white-t-shirt_orig.jpg?raw=true"
+         width="350" height="444" title="dub-direct-tenement-rydims-white" id="dub-direct-tenement-rydims-white" alt="dub-direct-tenement-rydims-white">
+    </a>
+    <p>
+    Dub Direct - Tenement Rydims. White sizes M or L.
+    </p>
 </div>
 <br>
 
