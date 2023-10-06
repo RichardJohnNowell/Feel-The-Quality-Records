@@ -9,7 +9,7 @@ from django.contrib import messages
 
 
 def all_products(request):
-    """ A view to return the index page """
+    """ A view to show all products """
     return render(request, 'products/products.html', context)
 
     products = Product.objects.all()
