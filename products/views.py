@@ -10,7 +10,7 @@ from django.contrib import messages
 
 def all_products(request):
     """ A view to show all products """
-    return render(request, 'products/products.html', context)
+    return render(request, 'products/products.html')
 
     products = Product.objects.all()
 
