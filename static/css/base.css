@@ -30,7 +30,6 @@ li a:hover {
 }
 
 .navbar {
-
     color: #3effff;
     min-height: 60px;
 }
@@ -49,7 +48,9 @@ nav li {
     text-align: center;
 }
   
-
+.nav-item {
+    color: #3EFFFF; 
+}
 
 .nav-link {
     color: #3effff;  
@@ -85,15 +86,7 @@ nav li {
     background: #010203;
 }
 
-.overlay {
-    height: 100%;
-    width: 100%;
-    top: 0;
-    left: 0;
-    position: fixed;
-    background: white;
-    z-index: -1;
-}
+
 
 /* -------------------------------- t-shirt image sizing */
 
