@@ -31,7 +31,7 @@ li a:hover {
 
 .navbar {
     background: #6c1413;
-    color: #3effff
+    color: #3effff;
     min-height: 60px;
 }
 
@@ -78,8 +78,6 @@ nav li {
     background: #2b2b2b;
     color: #fefdfa;
 }
-
-
 
 .border-black {
     border: 1px solid #010203;
