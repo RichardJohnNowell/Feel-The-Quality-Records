@@ -89,12 +89,18 @@ nav li {
     background: #010203;
 }
 
+.overlay {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    background: white;
+    z-index: -1;
+}
+
 /* -------------------------------- t-shirt image sizing */
 
-#dub-direct-need-to-know-white-t-shirt {
-    width: "350px";
-    height: "350px";
-}
 
 #dub-direct-tenement-rydims-black-t-shirt {
     width: "350px"; 
@@ -148,10 +154,6 @@ nav li {
 
 /* -------------------------------- cd cover sizing */
 
-#dub-direct-need-to-know {
-    width: "350px"; 
-    height: "350px";
-}
 
 #dub-direct-tenement-rydims {
     width: "350px"; 
