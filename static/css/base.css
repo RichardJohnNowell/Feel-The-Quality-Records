@@ -6,11 +6,9 @@ html {
 
 body {
     background-attachment: fixed;
-    background-image: url("https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/ftqr-website-background_orig.jpg");
-    background-position: center center;
-    background-repeat: no-repeat;
+    background-color: #d4aea7;
     background-size: cover;
-    color: #010203;
+    color: #1b0804;
     font-family: Montserrat;
     font-size: 1.0rem;
     font-weight: 400;
@@ -26,7 +24,7 @@ p {
 /* --------------------------------------- navbar styling */
 
 li a:hover {
-    background-color: #92bfbe;
+    background-color: #93eded;
 }
 
 .navbar {
@@ -43,13 +41,13 @@ nav li {
 }
 
 .navbar ul li a{
-    color: #3EFFFF;
+    color: #3effff;
     margin: auto;
     text-align: center;
 }
   
 .nav-item {
-    color: #3EFFFF; 
+    color: #3effff; 
 }
 
 .nav-link {
@@ -57,13 +55,13 @@ nav li {
 }
 
 .shop-now-button {
-    background: #010203;;
+    background: #1b0804;
     color: #fefdfa;
     min-width: 260px;
 }
 
 .btn-black {
-    background: #010203;;
+    background: #1b0804;
     color: #fefdfa;
 }
 
@@ -79,11 +77,11 @@ nav li {
 }
 
 .border-black {
-    border: 1px solid #010203;
+    border: 1px solid #1b0804;
 }
 
 .bg-black {
-    background: #010203;
+    background: #1b0804;
 }
 
 
@@ -201,7 +199,7 @@ nav li {
 }
   
 #websitecredit {
-    color: #2b2b2b;
+    color: #1b0804;
     font-size: 1.0rem;
     padding-bottom: 1.0rem;
     text-align: center;
