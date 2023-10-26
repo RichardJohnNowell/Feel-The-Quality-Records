@@ -12,7 +12,9 @@
 </div>
 <br>
 FTQR specialises in electronic music with many influences including triphop, reggae and beats & rhymes. We have also
-recorded and released rock-orientated tunes and collaborated with musicians in France and Switzerland. 
+recorded and released rock-orientated tunes and collaborated with musicians in France and Switzerland.
+<br>
+<a href="https://soundcloud.com/feel-the-quality-records" title="Feel the Quality Records" target="_blank" alt="Feel The Quality Records" rel="noopener">Feel The Quality Records on Soundcloud.</a>
 
 ## Introduction.
 
