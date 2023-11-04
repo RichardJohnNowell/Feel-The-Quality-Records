@@ -1,4 +1,6 @@
 asgiref==3.7.2
+boto3==1.13.16
+botocore==1.16.16
 Django==3.2.21
 django-allauth==0.57.0
 django-countries==7.3
