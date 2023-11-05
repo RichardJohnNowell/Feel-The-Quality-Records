@@ -31,7 +31,7 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
-    'django.contrib.staticfiles',
+    #'django.contrib.staticfiles',
     'django.contrib.sites',
     'allauth',
     'allauth.account',
@@ -147,7 +147,6 @@ USE_TZ = True
 
 # Static files
 STATIC_URL = '/static/'
-STATIC_ROOT = (os.path.join(BASE_DIR, 'static'),)
 STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)
 
 
