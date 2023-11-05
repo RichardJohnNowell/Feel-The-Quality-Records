@@ -280,3 +280,8 @@ Pictures are representative only. Quality of shipped product is excellent.
      width="350" height="164" id="ftqr-heroku-deployment" title="ftqr-heroku-deployment"  alt="ftqr-heroku-deployment">
     </a>
 <div>
+<br>
+<p align="center">
+Heroku deployment log.
+</p>
+<br>
