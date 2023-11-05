@@ -40,7 +40,13 @@ provided and the merchandise pages encourages viewers
 to help the musicians and buy a product.
 <br>
 
-## T-shirt designs
+## Contents
+    * [Introduction](#introduction)
+    * [T-shirtDesigns](#t-shirtdesigns)
+    * [CDCovers](#cdcovers)
+    * [Deployment](#deployment)
+
+## T-shirtDesigns
 <br>
 <p align="center">
 <strong>
@@ -148,7 +154,7 @@ Pictures are representative only. Quality of shipped product is excellent.
 </div>
 <br>
 
-## cd covers
+## CDCovers
 
 <br>
 <div align="center">
@@ -156,6 +162,9 @@ Pictures are representative only. Quality of shipped product is excellent.
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-what-income_orig.jpg?raw=true"
          width="350" height="358" title="this-that-the-other-what-income" id="this-that-the-other-what-income" alt="this-that-the-other-what-income">
     </a>
+    <p>
+    CD-1: This That The Other - What Income?
+    </p>
 </div>
 <br>
 <div align="center">
@@ -163,6 +172,9 @@ Pictures are representative only. Quality of shipped product is excellent.
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-fallen-soldiers_orig.jpg?raw=true"
          width="350" height="347" title="this-that-the-other-fallen-soldiers" id="this-that-the-other-fallen-soldiers" alt="this-that-the-other-fallen-soldiers">
     </a>
+    <p>
+    CD-2: This That The Other - Fallen Soldiers.
+    </p>
 </div>
 <br>
 <div align="center">
@@ -170,6 +182,9 @@ Pictures are representative only. Quality of shipped product is excellent.
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/this-that-the-other-urban-angst_orig.jpg?raw=true"
          width="350" height="350" title="this-that-the-other-urban-angst" id="this-that-the-other-urban-angst" alt="this-that-the-other-urban-angst">
     </a>
+    <p>
+    CD-3: This That The Other - Urban Angst.
+    </p>
 </div>
 <br>
 <div align="center">
@@ -177,5 +192,10 @@ Pictures are representative only. Quality of shipped product is excellent.
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/lastwind-monster-trucks_orig.jpg?raw=true"
          width="350" height="344" title="lastwind-monster-trucks" id="lastwind-monster-trucks" alt="lastwind-monster-trucks">
     </a>
+    <p>
+    CD-4: Lastwind - Monster Trucks.
+    </p>
 </div>
 <br>
+
+## deployment
