@@ -52,7 +52,8 @@ to help the musicians and buy a product.
 <br>
 <p align="center">
 The User will be able to purchase a range of t-shirts and cds. The payment system
-will be secure and utilise 'stripe', the format for 90% of financial transactions.
+will be secure and utilise 'stripe'. T-shirts will cost £12.50p and CDs £7.50 plus
+postage and packing.
 </p>
 <br>
 <p align="center">
