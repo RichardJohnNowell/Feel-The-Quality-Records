@@ -1,6 +1,7 @@
 // coding supplied by jotform. tested on jshint and passed.
 // tried various minification sites but none worked satisfactorily
 // when tested on jshint.
+// would like to change variable var to variable let at some point.
 var ifr = document.getElementById("JotFormIFrame-231864072231349");
     if (ifr) {
       var src = ifr.src;
