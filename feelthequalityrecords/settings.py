@@ -21,7 +21,7 @@ SECRET_KEY = 'django-insecure-rir!vhc2x!wbc6u=!skts*f(329k3ycijm1yb$s1&5leumolyb
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['https://feel-the-quality-records-5f46d485690f.herokuapp.com']
+ALLOWED_HOSTS = ['feel-the-quality-records-5f46d485690f.herokuapp.com']
 
 
 # Application definition
