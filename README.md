@@ -42,9 +42,10 @@ to help the musicians and buy a product.
 
 ## Contents
 * [Introduction](#introduction)
+* [UserExperience](#userexperience)
+* [PlayerTracks](#playertracks)
 * [T-shirtDesigns](#t-shirtdesigns)
 * [CDCovers](#cdcovers)
-* [PlayerTracks](#playertracks)
 * [Deployment](#deployment)
 
 ## UserExperience
@@ -57,7 +58,66 @@ will be secure and utilise 'stripe', the format for 90% of financial transaction
 <p align="center">
 </p>
 
-
+## PlayerTracks
+<br>
+<div class="flex-container">
+    <ol>
+        <li> Player page 1. 
+        </li>
+        <li> This, That, The Other - What Income Is Derived? 
+        </li>
+        <li> Judgement Sounds Feat. Sonic - Bristol To Geneva. 
+        </li>
+        <li> This, That, The Other - Peace Of Mind. 
+        </li>
+        <li> This, That, The Other - Who Really Gets Paid?
+        </li>
+        <li> Dub Direct - Pound For Pound.
+        </li>
+        <li> This, That, The Other - It Was You.
+        </li>
+        <li> This, That, The Other - Looting & Laughing.
+        </li>
+        <li> This, That, The Other - But They Say Nothing To Us.
+        </li>
+        <li> This, That, The Other - Crystal Clear.
+        </li>
+        <li> This, That, The Other - Fallen Soldiers.
+        </li>
+        <li> Dub Direct - Sweet Little Glance.
+        </li>
+    </ol>
+</div>
+<br>
+<div class="flex-container">
+    <ol>
+        <li> Player page 2.
+        </li>
+        <li> This, That, The Other - Paris To Marseilles.
+        </li>
+        <li> This, That, The Other - The Bristol Situation.
+        </li>
+        <li> This, That, The Other - Fallen Soldiers Remix.
+        </li>
+        <li> This, That, The Other - Angst On Overload.
+        </li>
+        <li> This, That, The Other - Urban Angst.
+        </li>
+        <li> This, That, The Other - What Goes On.
+        </li>
+        <li> Bud Direct - Dwell On Positives.
+        </li>
+        <li> Bud Direct - Need To Know.
+        </li>
+        <li> Dub Direct - Tenement Rydims.
+        </li>
+        <li> Bud Direct - Make Your Goal.
+        </li>
+        <li> Bud Direct - It's All You Need.
+        </li>
+    </ol>
+</div>
+<br>
 
 ## T-shirtDesigns
 <br>
@@ -208,67 +268,6 @@ Pictures are representative only. Quality of shipped product is excellent.
     <p>
     CD-4: Lastwind - Monster Trucks.
     </p>
-</div>
-<br>
-
-## PlayerTracks
-<br>
-<div class="flex-container">
-    <ol>
-        <li> Player page 1. 
-        </li>
-        <li> This, That, The Other - What Income Is Derived? 
-        </li>
-        <li> Judgement Sounds Feat. Sonic - Bristol To Geneva. 
-        </li>
-        <li> This, That, The Other - Peace Of Mind. 
-        </li>
-        <li> This, That, The Other - Who Really Gets Paid?
-        </li>
-        <li> Dub Direct - Pound For Pound.
-        </li>
-        <li> This, That, The Other - It Was You.
-        </li>
-        <li> This, That, The Other - Looting & Laughing.
-        </li>
-        <li> This, That, The Other - But They Say Nothing To Us.
-        </li>
-        <li> This, That, The Other - Crystal Clear.
-        </li>
-        <li> This, That, The Other - Fallen Soldiers.
-        </li>
-        <li> Dub Direct - Sweet Little Glance.
-        </li>
-    </ol>
-</div>
-<br>
-<div class="flex-container">
-    <ol>
-        <li> Player page 2.
-        </li>
-        <li> This, That, The Other - Paris To Marseilles.
-        </li>
-        <li> This, That, The Other - The Bristol Situation.
-        </li>
-        <li> This, That, The Other - Fallen Soldiers Remix.
-        </li>
-        <li> This, That, The Other - Angst On Overload.
-        </li>
-        <li> This, That, The Other - Urban Angst.
-        </li>
-        <li> This, That, The Other - What Goes On.
-        </li>
-        <li> Bud Direct - Dwell On Positives.
-        </li>
-        <li> Bud Direct - Need To Know.
-        </li>
-        <li> Dub Direct - Tenement Rydims.
-        </li>
-        <li> Bud Direct - Make Your Goal.
-        </li>
-        <li> Bud Direct - It's All You Need.
-        </li>
-    </ol>
 </div>
 <br>
 
