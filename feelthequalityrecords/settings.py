@@ -18,7 +18,7 @@ SECRET_KEY = 'django-insecure-rir!vhc2x!wbc6u=!skts*f(329k3ycijm1yb$s1&5leumolyb
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 
 ALLOWED_HOSTS = ['feel-the-quality-records-5f46d485690f.herokuapp.com']
