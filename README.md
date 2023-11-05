@@ -41,10 +41,10 @@ to help the musicians and buy a product.
 <br>
 
 ## Contents
-    * [Introduction](#introduction)
-    * [T-shirtDesigns](#t-shirtdesigns)
-    * [CDCovers](#cdcovers)
-    * [Deployment](#deployment)
+* [Introduction](#introduction)
+* [T-shirtDesigns](#t-shirtdesigns)
+* [CDCovers](#cdcovers)
+* [Deployment](#deployment)
 
 ## T-shirtDesigns
 <br>
