@@ -275,7 +275,8 @@ Pictures are representative only. Quality of shipped product is excellent.
 ## Deployment
 
 <div align="center">
-    <a href="https://github.com/RichardJohnNowell/Feel-The-Quality-Records/blob/main/static/documentation/ftqr-heroku-deployment.jpg?raw=true"
-     width="350" height="164" title="ftqr-heroku-deployment" id="ftqr-heroku-deployment" alt="ftqr-heroku-deployment">
+    <a href="https://github.com/RichardJohnNowell/Feel-The-Quality-Records/blob/main/static/documentation/ftqr-heroku-deployment.jpg?raw=true">
+        <img src="https://github.com/RichardJohnNowell/Feel-The-Quality-Records/blob/main/static/documentation/ftqr-heroku-deployment.jpg?raw=true"
+     width="350" height="164" id="ftqr-heroku-deployment" title="ftqr-heroku-deployment"  alt="ftqr-heroku-deployment">
     </a>
 <div>
