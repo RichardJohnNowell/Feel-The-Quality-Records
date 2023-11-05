@@ -13,15 +13,20 @@
 </div>
 <!--- introduction to musical styles --->
 <br>
-FTQR specialises in electronic music with many influences including triphop, reggae and beats & rhymes. We have also
+<p>FTQR specialises in electronic music with many influences including triphop, reggae and beats & rhymes. We have also
 recorded and released rock-orientated tunes and collaborated with musicians in France and Switzerland.
-<br>
 <!--- link to site --->
-<a href="https://feel-the-quality-records-5f46d485690f.herokuapp.com" title="ftqr-heroku" target="_blank" alt="ftqr-heroku"
-rel="noopener">Click here to visit Feel The Quality Records.</a>
 <br>
+<a href="https://feel-the-quality-records-5f46d485690f.herokuapp.com" title="feel-the-quality-records" target="_blank" alt="feel-the-quality-records"
+rel="noopener">Click here to visit Feel The Quality Records.</a>
+</p>
 <!--- link to soundcloud --->
-<a href="https://soundcloud.com/feel-the-quality-records" title="Feel the Quality Records" target="_blank" alt="Feel The Quality Records" rel="noopener">Feel The Quality Records on Soundcloud.</a>
+<p>
+Listen to FTQR on Soundcloud.
+<br>
+<a href="https://soundcloud.com/feel-the-quality-records" title="ftqr-soundcloud" target="_blank" alt="ftqr-soundcloud" rel="noopener">Feel The Quality Records on Soundcloud.</a>
+</p>
+<br>
 
 <!--- introduction --->
 ## Introduction.
@@ -70,6 +75,9 @@ postage and packing.
 ## PlayerTracks
 <br>
 <div class="flex-container">
+    <p>
+    FTQR player page 1.
+    </p>
     <ol>
         <li> This, That, The Other - What Income Is Derived? 
         </li>
@@ -98,6 +106,9 @@ postage and packing.
 <br>
 <!--- tracks that are used on player page 2 --->
 <div class="flex-container">
+    <p>
+    FTQR player page 2.
+    </p>
     <ol>
         <li> This, That, The Other - Paris To Marseilles.
         </li>
