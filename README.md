@@ -214,8 +214,8 @@ Pictures are representative only. Quality of shipped product is excellent.
 ## PlayerTracks
 <br>
 <p align="center">
-Player page 1.
-This, That, The Other - What Income Is Derived? \
+<p>Player page 1.</p>
+<p>This, That, The Other - What Income Is Derived?</p>
 This, That, The Other - Peace Of Mind. \
 Judgement Sounds Feat. Sonic - Bristol To Geneva. \
 This, That, The Other - Who Really Gets Paid? \
