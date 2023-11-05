@@ -1,3 +1,4 @@
+<!--- start of ftqr readme --->
 <div align="center">
     <a href="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/ftqr-long-logo_orig.jpg?raw=true">
         <img src="https://www.bristolcybersolutions.co.uk/uploads/1/4/4/2/144286628/ftqr-long-logo_orig.jpg?raw=true"
@@ -10,15 +11,19 @@
     Feel The Quality Records (FTQR) is an independent music label from Bristol.
     </strong></p>
 </div>
+<!--- introduction to musical styles --->
 <br>
 FTQR specialises in electronic music with many influences including triphop, reggae and beats & rhymes. We have also
 recorded and released rock-orientated tunes and collaborated with musicians in France and Switzerland.
 <br>
+<!--- link to site --->
 <a href="https://feel-the-quality-records-5f46d485690f.herokuapp.com" title="ftqr-heroku" target="_blank" alt="ftqr-heroku"
 rel="noopener">Click here to visit Feel The Quality Records.</a>
 <br>
+<!--- link to soundcloud --->
 <a href="https://soundcloud.com/feel-the-quality-records" title="Feel the Quality Records" target="_blank" alt="Feel The Quality Records" rel="noopener">Feel The Quality Records on Soundcloud.</a>
 
+<!--- introduction --->
 ## Introduction.
 
 Feel the Quality Records (FTQR) was a record label that existed between 2005
@@ -43,6 +48,7 @@ provided and the merchandise pages encourages viewers
 to help the musicians and buy a product.
 <br>
 
+<!--- readme contents --->
 ## Contents
 * [Introduction](#introduction)
 * [UserExperience](#userexperience)
@@ -51,6 +57,7 @@ to help the musicians and buy a product.
 * [CDCovers](#cdcovers)
 * [Deployment](#deployment)
 
+<!--- user experience --->
 ## UserExperience
 <br>
 <p>
@@ -59,12 +66,11 @@ will be secure and utilise 'stripe'. T-shirts will cost £12.50p and CDs £7.50 
 postage and packing.
 </p>
 
+<!--- tracks that are used on player page 1 --->
 ## PlayerTracks
 <br>
 <div class="flex-container">
     <ol>
-        <li> Player page 1. 
-        </li>
         <li> This, That, The Other - What Income Is Derived? 
         </li>
         <li> Judgement Sounds Feat. Sonic - Bristol To Geneva. 
@@ -90,10 +96,9 @@ postage and packing.
     </ol>
 </div>
 <br>
+<!--- tracks that are used on player page 2 --->
 <div class="flex-container">
     <ol>
-        <li> Player page 2.
-        </li>
         <li> This, That, The Other - Paris To Marseilles.
         </li>
         <li> This, That, The Other - The Bristol Situation.
@@ -120,6 +125,7 @@ postage and packing.
 </div>
 <br>
 
+<!--- t-shirt designs --->
 ## T-shirtDesigns
 <br>
 <p align="center">
@@ -228,6 +234,7 @@ Pictures are representative only. Quality of shipped product is excellent.
 </div>
 <br>
 
+<!--- cd covers --->
 ## CDCovers
 
 <br>
@@ -272,6 +279,7 @@ Pictures are representative only. Quality of shipped product is excellent.
 </div>
 <br>
 
+<!--- deployment --->
 ## Deployment
 
 <div align="center">
@@ -285,3 +293,4 @@ Pictures are representative only. Quality of shipped product is excellent.
 Heroku deployment log.
 </p>
 <br>
+<!--- end of readme --->
