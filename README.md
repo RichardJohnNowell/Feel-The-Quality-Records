@@ -14,6 +14,9 @@
 FTQR specialises in electronic music with many influences including triphop, reggae and beats & rhymes. We have also
 recorded and released rock-orientated tunes and collaborated with musicians in France and Switzerland.
 <br>
+<a href="https://feel-the-quality-records-5f46d485690f.herokuapp.com" title="ftqr-heroku" target="_blank" alt="ftqr-heroku"
+rel="noopener">Click here to visit Feel The Quality Records.</a>
+<br>
 <a href="https://soundcloud.com/feel-the-quality-records" title="Feel the Quality Records" target="_blank" alt="Feel The Quality Records" rel="noopener">Feel The Quality Records on Soundcloud.</a>
 
 ## Introduction.
@@ -50,13 +53,10 @@ to help the musicians and buy a product.
 
 ## UserExperience
 <br>
-<p align="center">
+<p>
 The User will be able to purchase a range of t-shirts and cds. The payment system
 will be secure and utilise 'stripe'. T-shirts will cost £12.50p and CDs £7.50 plus
 postage and packing.
-</p>
-<br>
-<p align="center">
 </p>
 
 ## PlayerTracks
