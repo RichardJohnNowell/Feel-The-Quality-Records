@@ -215,32 +215,32 @@ Pictures are representative only. Quality of shipped product is excellent.
 <br>
 <p align="center">
 Player page 1.
-This, That, The Other - What Income Is Derived?
-This, That, The Other - Peace Of Mind.
-Judgement Sounds Feat. Sonic - Bristol To Geneva.
-This, That, The Other - Who Really Gets Paid? 
-Dub Direct - Pound For Pound.
-This, That, The Other - It Was You.
-This, That, The Other - Looting & Laughing.
-This, That, The Other - But They Say Nothing To Us.
-This, That, The Other - Crystal Clear.
-This, That, The Other - Fallen Soldiers.
-Dub Direct - Sweet Little Glance.
+This, That, The Other - What Income Is Derived? \
+This, That, The Other - Peace Of Mind. \
+Judgement Sounds Feat. Sonic - Bristol To Geneva. \
+This, That, The Other - Who Really Gets Paid? \
+Dub Direct - Pound For Pound. \
+This, That, The Other - It Was You. \
+This, That, The Other - Looting & Laughing. \
+This, That, The Other - But They Say Nothing To Us. \
+This, That, The Other - Crystal Clear. \
+This, That, The Other - Fallen Soldiers. \
+Dub Direct - Sweet Little Glance. \
 </p>
 <br>
 <p align="center">
 Player page 2.
-This, That, The Other - Paris To Marseilles.
-This, That, The Other - The Bristol Situation.
-This, That, The Other - Fallen Soldiers Remix.
-This, That, The Other - Angst On Overload.
-This, That, The Other - Urban Angst.
-This, That, The Other - What Goes On.
-Bud Direct - Dwell On Positives.
-Bud Direct - Need To Know.
-Dub Direct - Tenement Rydims.
-Bud Direct - Make Your Goal. 
-Bud Direct - It's All You Need.
+This, That, The Other - Paris To Marseilles. \
+This, That, The Other - The Bristol Situation. \
+This, That, The Other - Fallen Soldiers Remix. \
+This, That, The Other - Angst On Overload. \
+This, That, The Other - Urban Angst. \
+This, That, The Other - What Goes On. \
+Bud Direct - Dwell On Positives. \
+Bud Direct - Need To Know. \
+Dub Direct - Tenement Rydims. \
+Bud Direct - Make Your Goal. \
+Bud Direct - It's All You Need. \
 </p>
 <br>
 
