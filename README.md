@@ -44,7 +44,20 @@ to help the musicians and buy a product.
 * [Introduction](#introduction)
 * [T-shirtDesigns](#t-shirtdesigns)
 * [CDCovers](#cdcovers)
+* [PlayerTracks](#playertracks)
 * [Deployment](#deployment)
+
+## UserExperience
+<br>
+<p align="center">
+The User will be able to purchase a range of t-shirts and cds. The payment system
+will be secure and utilise 'stripe', the format for 90% of financial transactions.
+</p>
+<br>
+<p align="center">
+</p>
+
+
 
 ## T-shirtDesigns
 <br>
@@ -163,7 +176,7 @@ Pictures are representative only. Quality of shipped product is excellent.
          width="350" height="358" title="this-that-the-other-what-income" id="this-that-the-other-what-income" alt="this-that-the-other-what-income">
     </a>
     <p>
-    CD-1: This That The Other - What Income?
+    CD-1: Stokes Croft Beatz 2 U - What Income?
     </p>
 </div>
 <br>
@@ -198,4 +211,6 @@ Pictures are representative only. Quality of shipped product is excellent.
 </div>
 <br>
 
-## deployment
+## PlayerTracks
+
+## Deployment
